@@ -1,0 +1,28 @@
+_repo: Lord-KelvinAn-account-of-his-scientific-life-and-work_39373
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39373-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Gray, Andrew
+    alias: Gray, A. (Andrew)
+    birthdate: 1847
+    deathdate: 1925
+    gutenberg_agent_id: '39992'
+    url: http://www.gutenberg.org/2009/agents/39992
+description: ''
+gutenberg_issued: '2012-04-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39373'
+  lccn: 09008091
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QC'
+- !lcsh 'Kelvin, William Thomson, Baron, 1824-1907'
+title: 'Lord Kelvin: An account of his scientific life and work'
+url: http://www.gutenberg.org/ebooks/39373
